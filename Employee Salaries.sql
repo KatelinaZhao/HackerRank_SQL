@@ -1,5 +1,6 @@
 
-# We want to print the list of employee names which sorted by employee_id, and the employee need have a salary greater than $2000 per month who have been employees for less than  months.
+# We want to print the list of employee names which sorted by employee_id, 
+and the employee need have a salary greater than $2000 per month who have been employees for less than  months #
 
 
 select name from Employee
