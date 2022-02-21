@@ -11,7 +11,7 @@ FROM OCCUPATIONS ORDER BY NAME ASC;
 # 2）Query the number of ocurrences of each occupation in OCCUPATIONS, 
 # Sort the occurrences in ascending order
 # format:
-          There are a total of [occupation_count] [occupation]s.
+#          There are a total of [occupation_count] [occupation]s.
 # [occupation_count] is the number of occurrences of an occupation in OCCUPATIONS
 # [occupation] is the lowercase occupation name
 # If more than one Occupation has the same [occupation_count], they should be ordered alphabetically.
